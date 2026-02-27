@@ -81,8 +81,9 @@ To use `adb` you first need to turn on USB debugging on your device, usually by 
 2. Click "Build number" quickly for several times, you can see a message similar to "You are a developer".
 3. At this point, you should able to find "Developer Options" in Settings,  enable "USB Debugging".
 4. Connect the device to the computer and type `adb devices` in the terminal.
-5. At this time, the dialog "Allow debugging" will appear on the device, check "Always allow" and confirm.
-6. Enter `adb devices` again in the terminal. If there is no problem, you will see something like the following.
+5. At this time, the dialog " all
+6. Allow debugging" will appear on the device, check "Always allow" and confirm.
+7. Enter `adb devices` again in the terminal. If there is no problem, you will see something like the following.
 
    ```
    List of devices attached
@@ -95,7 +96,7 @@ The steps for enabling Developer Options on different devices may vary, please s
 
 #### Start Shizuku
 
-Copy the command and paste into the terminal. If there is no problem, you will see that Shizuku has started successfully in Shizuku app.
+Copy the command and paste into the . If there is no problem, you will see that Shizuku has started successfully in Shizuku app.
 
 
 ::: details Command for Shizuku v11.2.0+
